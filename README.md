@@ -1,4 +1,4 @@
-# Análise Casos de Suicídio
+# Análise dos Casos de Suicídio 2010/2019
 
 O suicídio é um tema de extrema relevância e complexidade no Brasil. Ao longo das últimas décadas, a discussão em torno desse assunto ganhou destaque devido ao aumento das taxas de suicídio no país. As questões socioeconômicas, culturais e de saúde mental desempenham um papel significativo nesse cenário, impactando diretamente a saúde e o bem-estar da população.
 
